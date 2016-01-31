@@ -1,7 +1,6 @@
 package com.chaitanya.department.convertor;
 
 import java.text.ParseException;
-import java.util.Calendar;
 
 import com.chaitanya.department.model.Department;
 import com.chaitanya.department.model.DepartmentDTO;
