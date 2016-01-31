@@ -50,7 +50,7 @@ public class EmployeeController {
 			if(Validation.validateCollectionForNullSize(employeeDTOList)){
 				model.addObject("branchList", mapper.writeValueAsString(branchDTOList));
 			}
-			zxcz
+			
 		}
 		model.setViewName("master/employeeJSP");
 		return model;
