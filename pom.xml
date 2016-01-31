@@ -4,10 +4,9 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.chaitanya</groupId>
-	<artifactId>BusinessReimbursment</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Business Reimbursment</name>
+	<name>ExpenseManagement</name>
 	
 
 	<licenses>
@@ -183,4 +182,5 @@
 		</plugins>
 	</build>
 
+	<artifactId>ExpenseManagement</artifactId>
 </project>
